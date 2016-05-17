@@ -5,7 +5,26 @@ abbr.name{
 	white-space: nowrap;
 }
 
-body[epub|type~="frontmatter"] section,
-body[epub|type~="bodymatter"] section{
+.inscription{
+	font-variant: small-caps;
+}
+
+section[epub|type~="frontmatter"] section,
+section[epub|type~="bodymatter"] section{
 	page-break-after: always;
+}
+
+[epub|type~="z3998:verse"] p{
+	text-align: left;
+	text-indent: 0;
+}
+
+[epub|type~="z3998:verse"] p span{
+	display: block;
+	text-indent: -1em;
+	padding-left: 1em;
+}
+
+[epub|type~="z3998:verse"] br{
+	display: none;
 }
