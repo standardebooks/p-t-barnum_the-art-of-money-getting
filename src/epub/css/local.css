@@ -28,3 +28,8 @@ section[epub|type~="bodymatter"] section{
 [epub|type~="z3998:verse"] br{
 	display: none;
 }
+
+section[epub|type~="halftitlepage"] span[epub|type~="subtitle"]{
+	display: block;
+	font-size: .75em;
+}
