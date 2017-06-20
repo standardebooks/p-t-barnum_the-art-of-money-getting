@@ -34,7 +34,7 @@
 		<dc:description id="description">A short guide on achieving financial success.</dc:description>
 		<meta property="meta-auth" refines="#description">https://standardebooks.org</meta>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;P. T. Barnum, the legendery entertainer and co-founder of the Barnum and Baily Circus, was not just a successful businessman, but a philanthropist and writer as well.  This short, pamphlet-length work distills Barnum’s advice on achieving success and wealth, in his own words.&lt;/p&gt;
+			&lt;p&gt;P. T. Barnum, the legendery entertainer and co-founder of the Barnum and Bailey Circus, was not just a successful businessman, but a philanthropist and writer as well.  This short, pamphlet-length work distills Barnum’s advice on achieving success and wealth, in his own words.&lt;/p&gt;
 		</meta>
 		<meta property="meta-auth" refines="#long-description">https://standardebooks.org</meta>
 		<dc:language>en-US</dc:language>
