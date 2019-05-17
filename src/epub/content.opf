@@ -26,7 +26,7 @@
 		<meta property="schema:accessibilityFeature">tableOfContents</meta>
 		<meta property="schema:accessibilityHazard">none</meta>
 		<meta property="schema:accessibilitySummary">This publication conforms to WCAG 2.0 Level AA.</meta>
-		<link href="onix.xml" rel="onix-record"/>
+		<link href="onix.xml" media-type="application/xml" properties="onix" rel="record"/>
 		<dc:title id="title">The Art of Money Getting</dc:title>
 		<meta property="file-as" refines="#title">Art of Money Getting, The</meta>
 		<meta property="title-type" refines="#title">main</meta>
@@ -38,15 +38,15 @@
 		<meta property="title-type" refines="#fulltitle">extended</meta>
 		<dc:subject id="subject-1">Success</dc:subject>
 		<dc:subject id="subject-2">Success in business</dc:subject>
-		<meta property="meta-auth" refines="#subject-1">https://www.gutenberg.org/ebooks/8581</meta>
-		<meta property="meta-auth" refines="#subject-2">https://www.gutenberg.org/ebooks/8581</meta>
+		<meta property="authority" refines="#subject-1">LCSH</meta>
+		<meta property="term" refines="#subject-1">sh85129587</meta>
+		<meta property="authority" refines="#subject-2">LCSH</meta>
+		<meta property="term" refines="#subject-2">sh85129589</meta>
 		<meta property="se:subject">Nonfiction</meta>
 		<dc:description id="description">A short guide on achieving financial success.</dc:description>
-		<meta property="meta-auth" refines="#description">https://standardebooks.org</meta>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;P. T. Barnum, the legendery entertainer and co-founder of the Barnum and Bailey Circus, was not just a successful businessman, but a philanthropist and writer as well. This short, pamphlet-length work distills Barnum’s advice on achieving success and wealth, in his own words.&lt;/p&gt;
 		</meta>
-		<meta property="meta-auth" refines="#long-description">https://standardebooks.org</meta>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/8581</dc:source>
 		<dc:source>https://catalog.hathitrust.org/Record/100381125</dc:source>
