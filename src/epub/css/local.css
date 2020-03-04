@@ -5,8 +5,7 @@
 	font-variant: small-caps;
 }
 
-section[epub|type~="frontmatter"],
-section[epub|type~="bodymatter"]{
+section[epub|type~="chapter"]{
 	page-break-after: always;
 }
 
