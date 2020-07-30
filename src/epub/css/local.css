@@ -6,7 +6,7 @@
 }
 
 section[epub|type~="chapter"]{
-	page-break-after: always;
+	break-after: page;
 }
 
 [epub|type~="z3998:verse"] p{
