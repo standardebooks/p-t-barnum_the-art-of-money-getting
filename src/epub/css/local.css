@@ -23,9 +23,3 @@ section[epub|type~="chapter"]{
 [epub|type~="z3998:verse"] p > span + br{
 	display: none;
 }
-
-section[epub|type~="halftitlepage"] span[epub|type~="subtitle"]{
-	display: block;
-	font-size: .75em;
-	font-weight: normal;
-}
