@@ -2,10 +2,6 @@
 <se-lint-ignore>
 	<file path="the-art-of-money-getting.xhtml">
 		<ignore>
-			<code>s-021</code>
-			<reason>The &lt;title&gt; tag is accurate; the work title appears in the half title.</reason>
-		</ignore>
-		<ignore>
 			<code>t-011</code>
 			<reason>Matched text is a sign and does not require closing punctuation.</reason>
 		</ignore>
