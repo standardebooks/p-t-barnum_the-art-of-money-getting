@@ -46,7 +46,7 @@
 		<meta property="se:subject">Nonfiction</meta>
 		<dc:description id="description">A short guide on achieving financial success.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/p-t-barnum"&gt;&lt;abbr&gt;P. T.&lt;/abbr&gt; Barnum&lt;/a&gt;, the legendery entertainer and co-founder of the Barnum and Bailey Circus, was not just a successful businessman, but a philanthropist and writer as well. This short, pamphlet-length work distills Barnum’s advice on achieving success and wealth, in his own words.&lt;/p&gt;
+			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/p-t-barnum"&gt;&lt;abbr&gt;P. T.&lt;/abbr&gt; Barnum&lt;/a&gt;, the legendary entertainer and co-founder of the Barnum and Bailey Circus, was not just a successful businessman, but a philanthropist and writer as well. This short, pamphlet-length work distills Barnum’s advice on achieving success and wealth, in his own words.&lt;/p&gt;
 		</meta>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/8581</dc:source>
