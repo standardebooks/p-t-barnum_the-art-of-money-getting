@@ -50,7 +50,7 @@
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/8581</dc:source>
 		<dc:source>https://catalog.hathitrust.org/Record/100381125</dc:source>
-		<meta property="se:word-count">13611</meta>
+		<meta property="se:word-count">13564</meta>
 		<meta property="se:reading-ease.flesch">64.44</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/p-t-barnum_the-art-of-money-getting</meta>
 		<dc:creator id="author">P. T. Barnum</dc:creator>
