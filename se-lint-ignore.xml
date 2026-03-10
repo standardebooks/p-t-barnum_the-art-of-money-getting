@@ -2,9 +2,11 @@
 <se-lint-ignore>
 	<file path="the-art-of-money-getting.xhtml">
 		<ignore code="f-015">
+			<line>9</line>
 			<reason>The entire work fits into one file so the filename is unique.</reason>
 		</ignore>
 		<ignore code="t-011">
+			<line>174</line>
 			<reason>Matched text is a sign and does not require closing punctuation.</reason>
 		</ignore>
 	</file>
