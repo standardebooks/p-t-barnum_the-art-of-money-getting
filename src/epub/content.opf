@@ -36,7 +36,7 @@
 		<meta property="title-type" refines="#subtitle">subtitle</meta>
 		<dc:title id="fulltitle">The Art of Money Getting; or, Golden Rules for Making Money</dc:title>
 		<meta property="file-as" refines="#fulltitle">Art of Money Getting; or, Golden Rules for Making Money, The</meta>
-		<meta property="title-type" refines="#fulltitle">extended</meta>
+		<meta property="title-type" refines="#fulltitle">expanded</meta>
 		<dc:subject id="subject-1">Success</dc:subject>
 		<dc:subject id="subject-2">Success in business</dc:subject>
 		<meta property="authority" refines="#subject-1">LCSH</meta>
