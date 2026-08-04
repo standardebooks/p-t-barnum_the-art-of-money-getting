@@ -44,7 +44,7 @@
 		<meta property="authority" refines="#subject-2">LCSH</meta>
 		<meta property="term" refines="#subject-2">sh85129589</meta>
 		<meta property="schema:genre">Nonfiction</meta>
-		<dc:abstract>A short guide on achieving financial success.</dc:abstract>
+		<meta property="schema:abstract">A short guide on achieving financial success.</meta>
 		<dc:description>
 			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/p-t-barnum"&gt;&lt;abbr&gt;P. T.&lt;/abbr&gt; Barnum&lt;/a&gt;, the legendary entertainer and co-founder of the Barnum and Bailey Circus, was not just a successful businessman, but a philanthropist and writer as well. This short, pamphlet-length work distills Barnum’s advice on achieving success and wealth, in his own words.&lt;/p&gt;
 		</dc:description>
